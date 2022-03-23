@@ -1,0 +1,17 @@
+[
+  {
+    "name":"Peduli yatim",
+    "UserId":1,
+    "DonationId":1
+  },
+  {
+    "name":"Sedekah santri",
+    "UserId":2,
+    "DonationId":2
+  },
+  {
+    "name":"Sumbangan Palestina",
+    "UserId":3,
+    "DonationId":3
+  }
+]
